@@ -1,0 +1,5 @@
+venv
+templates
+.idea
+python.log
+migrations
